@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "556705256576",
+    "project_id": "primerapp-ecbd8",
+    "storage_bucket": "primerapp-ecbd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556705256576:android:79a785838a341857ed0265",
+        "android_client_info": {
+          "package_name": "com.felipes.first"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556705256576-prtmmei0f6sj75ejc1q7h8eftj0v3q6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxW7d17VsC2eUCCrmscnWo47os8gfTLQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556705256576-prtmmei0f6sj75ejc1q7h8eftj0v3q6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

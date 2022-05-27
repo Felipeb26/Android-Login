@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name"> Primer App</string>
+    <string name="input_user">Email</string>
+    <string name="input_password">Pass</string>
+    <string name="btn_login">ENTRAR</string>
+    <string name="create_login">Crie uma conta aqui</string>
+    <!--    Pagina de cadastro-->
+    <string name="titulo_cadastro">CADASTRE-SE</string>
+</resources>
